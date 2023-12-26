@@ -1,0 +1,2 @@
+instaloader==4.10
+moviepy==1.0.3
